@@ -1,21 +1,20 @@
-# dox_data_analyst
-
-Doximity technical challenge
-Proprietary and Confidential
+# Doximity data analyst technical challenge
+#### _Proprietary and Confidential_
 
 
+## Problem outline
 Consider a scenario where you work for a social network company for academics. This social network includes full professors, assistant professors, postdoctoral students, graduate students and others as members. To increase engagement and interaction among the members of this academic community, your product manager wants to roll out a feature that ranks members in the network according to the number of times other people have viewed their social profiles. The product manager sketches out a general vision for the product, which would appear differently for each user:
 
 __________
 
 Your rank for profile views
 
-John Doe
-Jane Doe
-You
-Jon Doe
-Jan Doe
-...
+1. John Doe
+2. Jane Doe
+3. You
+4. Jon Doe
+5. Jan Doe
+6. ...
 
 __________
 
@@ -33,7 +32,7 @@ external_profile_views: tabulates summary information about clicks on public_pro
 
 __________
 
-Part I
+## Part I
 
 The product manager has some questions on the data and is looking to you for some insight. Please provide your answer (and any applicable SQL queries you used to arrive at the answer):
 
@@ -45,7 +44,7 @@ Which region gets the most viewed users (based on internal profile views) ?
 
 __________
 
-Part II
+## Part II
 
 With these data, your goals are to understand and help the product manager understand how users are interacting with each others’ profiles, to understand how much web traffic user profiles are receiving and from where, to pull the data in a form that can generate a “Rank for profile views” feature, and to postulate how the data may best be presented in this product.
 
