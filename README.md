@@ -91,4 +91,4 @@ __________
 * Clone this repository, create a local git branch and commit your changes to said branch.
 * Push branch to GitHub.
 * Once work is completed, create a new Pull Request between master and your branch.
-* *Upon completion, notify Dean Lucas & Alex Schearer via email (dlucas@doximity.com, ashearer@doximity.com).*
+* *Upon completion, notify Dean Lucas & Alex Shearer via email (dlucas@doximity.com, ashearer@doximity.com).*
