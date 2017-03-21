@@ -27,14 +27,14 @@ Working as the data team’s point person on this project, you are responsible f
 
 ## Explanation of DB tables
 
-**1. users:** table containing information about the members of the academic network   
-**2. user_titles:** table containing job titles; foreign key in users is title_id (magenta)   
-**3. user_profile_urls:** tabulates user_id and its associated profile url used internally   
-**4. internal_profile_views:** tabulates all profile views that occurred within the social network application; logged as user_id who views the profile of viewed_user_id  
-**5. external_profile_views:** tabulates summary information about clicks on public_profile_urls that occur off of search engine searches  
+**1. users:** table containing information about the members of the academic network
+**2. user_titles:** table containing job titles; foreign key in users is title_id (magenta)
+**3. user_profile_urls:** tabulates user_id and its associated profile url used internally
+**4. internal_profile_views:** tabulates all profile views that occurred within the social network application; logged as user_id who views the profile of viewed_user_id
+**5. external_profile_views:** tabulates summary information about clicks on public_profile_urls that occur off of search engine searches
 
 ## Connecting to the DB
-The following instructions are for installing a MySQL application to help you connect to our interview database (options are contingent on your OS, and while we propose the two applications below, you can feel free to use alternative methods of your choosing): 
+The following instructions are for installing a MySQL application to help you connect to our interview database (options are contingent on your OS, and while we propose the two applications below, you can feel free to use alternative methods of your choosing):
 
 **1. Using SequelPro (if using a mac OS) http://www.sequelpro.com/download**
 
@@ -58,7 +58,7 @@ The product manager has some questions on the data and is looking to you for som
 1. What is the average age of users by region?
 2. Could you provide a breakdown of user title and number of user counts associated with each title?
 3. Who is the top viewed user, based on internal profile views?
-4. Can you provide a ranked list of the top 10 most view users based on internal profile views, supplemented with data from the user table? 
+4. Can you provide a ranked list of the top 10 most view users based on internal profile views, supplemented with data from the user table?
 5. Which region gets the most viewed users (based on internal profile views)?
 
 __________
@@ -80,8 +80,8 @@ This problem is very open-ended, so feel free to investigate questions of your o
 
 __________
 
-## What to submit 
-**When time is up, please submit all the code you wrote, your data visualizations, answers to the questions and written summary in a pull request. We hope this exercise is helpful (maybe even fun!) for you and appreciate your taking the time to do it!** 
+## What to submit
+**You have five hours to complete this challenge. It's likely you won't have time to include everything you wanted (or perhaps even answer all questions in the challenge), and that's ok.  When time is up, please submit all the code you wrote, your data visualizations, answers to the questions and written summary in a pull request. We hope this exercise is helpful (maybe even fun!) for you and appreciate your taking the time to do it!**
 
 ------------
 
