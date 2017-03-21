@@ -40,7 +40,7 @@ The product manager has some questions on the data and is looking to you for som
 What is the average age of users by region?
 Could you provide a breakdown of user title and number of user counts associated with each title?
 Who is the top viewed user, based on internal profile views?
-Can you provide a ranked list of the top 10 most view users based on internal profile views, supplemented with data from the user table?
+Can you provide a ranked list of the top 10 most view users based on internal profile views, supplemented with data from the user table? 
 Which region gets the most viewed users (based on internal profile views) ?
 
 __________
@@ -57,7 +57,7 @@ This problem is very open-ended, so feel free to investigate questions of your o
 What is the most interesting insight or opportunity that you discovered?
 What possible improvements to the data would you like to make?
 
-**You have five hours to complete this challenge. It's likely you won't have time to include everything you wanted (or perhaps even answer all questions in the challenge), and that's ok. When time is up, please email us all the code you wrote, your data visualizations, answers to the questions and written summary. We hope this exercise is helpful (maybe even fun!) for you and appreciate your taking the time to do it! **
+** When time is up, please email us all the code you wrote, your data visualizations, answers to the questions and written summary. We hope this exercise is helpful (maybe even fun!) for you and appreciate your taking the time to do it! ** 
 
 
 ------------
